@@ -1,6 +1,6 @@
 class Color(DefaultColor):
     USERNAME_FG = 15
-    USERNAME_BG = 4
+    USERNAME_BG = 56
     USERNAME_ROOT_BG = 1
 
     HOSTNAME_FG = 15
